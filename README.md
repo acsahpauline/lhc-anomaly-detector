@@ -1,0 +1,1 @@
+The project contains the main Streamlit app script along with necessary assets like images and styles for UI enhancements. You can modify the script to use different datasets or tweak the anomaly detection settings.
